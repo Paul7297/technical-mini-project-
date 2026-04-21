@@ -80,7 +80,7 @@ chat-application/
 
 ## Author
 
-Your Name - [Your UID]
+vivek raj
 Chandigarh University
 
 ---
